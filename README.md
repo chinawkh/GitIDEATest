@@ -1,17 +1,5 @@
 # GitIDEATest
-在idea上测试git 
+在把A分支merge到B分支时，会有相应的提示：
 
-main add add add push  dev dev dev dev dev dev dev dev dev dev dev dev dev dev dev dev
-
-main main main main main main main main main main main main main main main main main 
-
-main main main main main main01 main01 main01 main01 main01 main01 main01 main01 main01 
-
-main02 main02 main02 main02 main02 main02 main02 main02 main02 main02 main02 main02 main02 
-
-main03 main03 main03 main03 main03 main03 main03 main03 main03 
-
- dev dev dev dev dev dev dev main main main main main main main main main main main main  dev dev dev dev dev dev dev dev dev dev dev
-
-dev  dev dev dev dev dev dev dev dev dev dev dev dev dev dev dev dev dev dev dev dev
-
+1. 在命令框中提示哪个文件冲突
+2. 在文件中提示哪些是本分支的，哪些是合并过来的分支的
